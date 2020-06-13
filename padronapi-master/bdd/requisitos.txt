@@ -1,0 +1,6 @@
+wget
+unzip
+iconv
+fromdos
+gawk
+postgresql
